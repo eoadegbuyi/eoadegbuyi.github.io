@@ -27,16 +27,16 @@ author:
   bio              : Linguist
   location         : Ibadan, NG
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : https://eoadegbuyi.github.io
   email            : "eo.adegbuyi@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0001-9072-9951
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -55,9 +55,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : https://instagram.com/in/eoadegbuyi
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://linkedin.com/in/eoadegbuyi
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : https://youtube.com/@eoadegbuyi
   zhihu            : # URL
 
 
